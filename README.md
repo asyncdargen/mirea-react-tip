@@ -1,1 +1,3 @@
-# mirea-react-tip
+```text
+Добавлен небольшой CPS тестер на React + Vite
+```
